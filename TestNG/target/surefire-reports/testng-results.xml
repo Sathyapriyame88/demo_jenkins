@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-01-28T17:49:34 EST" name="Suite" finished-at="2021-01-28T17:49:42 EST" duration-ms="8054">
+    <groups>
+    </groups>
+    <test started-at="2021-01-28T17:49:34 EST" name="Test" finished-at="2021-01-28T17:49:42 EST" duration-ms="8054">
+      <class name="com.practise.TestNG.TestNG_ExtentRepo">
+        <test-method is-config="true" signature="initialization()[pri:0, instance:com.practise.TestNG.TestNG_ExtentRepo@7a675056]" started-at="2021-01-28T17:49:04 EST" name="initialization" finished-at="2021-01-28T17:49:34 EST" duration-ms="30214" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method signature="login()[pri:0, instance:com.practise.TestNG.TestNG_ExtentRepo@7a675056]" started-at="2021-01-28T17:49:34 EST" name="login" finished-at="2021-01-28T17:49:42 EST" duration-ms="7726" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="closeReport()[pri:0, instance:com.practise.TestNG.TestNG_ExtentRepo@7a675056]" started-at="2021-01-28T17:49:43 EST" name="closeReport" finished-at="2021-01-28T17:49:52 EST" duration-ms="9063" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeReport -->
+      </class> <!-- com.practise.TestNG.TestNG_ExtentRepo -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
